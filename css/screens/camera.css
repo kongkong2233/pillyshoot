@@ -1,0 +1,24 @@
+.canvas{
+    width: 100%;
+    height: 45vh;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color:#C4C4C4;
+}
+
+.shoot__btn{
+    width:90%;
+    height: 50px;
+    margin-top:5px;
+    background-color: #6D94EE;
+    box-sizing: border-box;
+    position: absolute;
+    left:50%;
+    transform: translate(-50%,0%);
+    border-radius: 15px;
+}
+.shoot__btn span{
+    color:#fff;
+    font-size: 16px;
+    font-weight: 600;
+}

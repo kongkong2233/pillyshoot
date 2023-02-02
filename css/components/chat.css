@@ -1,0 +1,31 @@
+.new_chat_balloon_area{
+    display: flex;
+	width: 100%;
+}
+
+.chat__name{
+    margin-left: 10px;
+	margin-top: 20px;
+    
+}
+
+.chat__balloon{
+    margin-left: 10px;
+    margin-top:10px;
+    width: 250px;
+    height: 100px;
+    background-color: #fff;
+    border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-bottom: 5px;
+}
+
+.profile{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    background-color: #fff;
+	margin-left: 15px;
+	margin-top: 20px;
+}

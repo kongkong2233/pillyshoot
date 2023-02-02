@@ -1,0 +1,16 @@
+.imageCard{
+    width:150px;
+    height: auto;
+    display:block;
+	margin-top: 10px;
+}
+.goods_card{
+    display:block;
+}
+.imageCard__title{
+    display:block;
+    text-overflow: ellipsis;
+    padding-left:10px;
+    padding-top:10px;
+    overflow: hidden;
+}

@@ -1,0 +1,19 @@
+#btn-123{
+	
+	margin-top: 10%;
+    margin-left: 60%;
+	float: left;
+	width:110px;
+	height: 60px;
+	background-color: #ccc;
+	border-radius:20px;
+		box-shadow:3px 3px 3px black;
+	font-size: 1.4em;
+	transition-duration:0.3s;
+	
+}
+#btn-123:active{
+	margin-left:5px;
+	margin-top:5px;
+	box-shadow:none;
+}

@@ -1,0 +1,36 @@
+.pilly_ranking__wrap{
+    padding-top:80px;
+}
+.pilly_ranking__title{
+    padding-top:5%;
+    padding-left: 5%;
+    font-weight: 600;
+}
+.ranking_items__list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ranking_items{
+    margin-top:20px;
+    width:90%;
+    height: 70px;
+    stroke: #7499F0;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 3px 10px rgb(0,0,0,.2);
+}
+.ranking_items a{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.pilly_image{
+    padding-left: 5%;
+    width: auto;
+    height: 80%;
+}
+.pilly_title :first-child{
+    color: #707070;
+}

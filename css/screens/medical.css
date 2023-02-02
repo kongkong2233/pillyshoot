@@ -1,0 +1,26 @@
+.search__box{
+    position:fixed;
+    width: 100%;
+    background-color: #7499F0;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.search__wrap{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.search__title{
+    margin-left:5%;
+    width: 85%;
+}
+.search__btn{
+    padding-right:2%;
+    padding-top:1%;
+    padding-bottom: 1%;
+}

@@ -1,0 +1,10 @@
+#toc-content {
+    display: none;
+  }
+  #toc-toggle {
+    cursor: pointer;
+    color: #000;
+  }
+  #toc-toggle:hover {
+    text-decoration: underline;
+  }
